@@ -1,0 +1,4 @@
+lavac
+lavac.sh
+*.lava-bytecode
+*.o
